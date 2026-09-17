@@ -1,0 +1,15 @@
+{
+  "name": "Storm Lightning",
+  "version": "1.0.2",
+  "manifest_version": 1,
+  "description": "Synchronized atmospheric lightning flashes for Owlbear Rodeo.",
+  "author": "Custom",
+  "action": {
+    "title": "Storm Lightning",
+    "icon": "/icon.svg",
+    "popover": "/index.html",
+    "height": 520,
+    "width": 340
+  },
+  "background_url": "/background.html"
+}
