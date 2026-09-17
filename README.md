@@ -16,6 +16,7 @@
 - синхронизация эффекта между игроками.
 
 ## Как использовать
+Создайте page на cloudflare.
 
 Добавьте URL `manifest.json` расширения в Owlbear Rodeo через меню **Extensions / Add Custom Extension**.
 
