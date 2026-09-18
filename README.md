@@ -16,9 +16,9 @@
 - синхронизация эффекта между игроками.
 
 ## Как использовать
-Создайте page на cloudflare.
+Создайте page на cloudflare, либо используйте мою ссылку для аддона (обязательно на файл manifest.json), если она доступна **https://storm-lightning.altraboxel.workers.dev/manifest.json**
 
-Добавьте URL `manifest.json` расширения в Owlbear Rodeo через меню **Extensions / Add Custom Extension**.
+Добавьте URL расширения в Owlbear Rodeo через меню **Extensions / Add Custom Extension**.
 
 После подключения откройте **Storm Lightning** в комнате Owlbear.
 
