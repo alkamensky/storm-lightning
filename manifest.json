@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "manifest_version": 1,
   "description": "Synchronized atmospheric lightning flashes for Owlbear Rodeo.",
-  "author": "Custom",
+  "author": "altraboxel",
   "action": {
     "title": "Storm Lightning",
     "icon": "/icon.svg",
